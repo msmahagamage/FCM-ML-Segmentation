@@ -1,4 +1,3 @@
-# FCM-ML-Segmentation
 # Hybrid Fuzzy C-Means and Maximum Likelihood Classifier for Image Segmentation
 
 This MATLAB project provides a robust, vectorized implementation of a hybrid classification workflow that uses Fuzzy C-Means (FCM) to initialize a Maximum Likelihood Classifier (MLC) for color image segmentation.
